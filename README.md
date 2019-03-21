@@ -1,13 +1,12 @@
 # NanoGUI Test
 
-Includes CMake build, but before you can do that you will need
-to download the dependencies using git submodule...
+Decimation screenshot:
 
-    git submodule update --init --recursive
+Before Decimation:
+![Screenshot]("https://github.com/KrutPatel2257/OpenGL_Quadric_Based_Mesh_Decimation/blob/master/Screenshot%202019-03-21%20at%202.29.08%20PM.png")
 
-Simple example looks like this:
-
-![Screenshot](https://raw.githubusercontent.com/darrenmothersele/nanogui-test/master/screenshot.png "Screenshot")
+After Decimation:
+![Screenshot]("https://github.com/KrutPatel2257/OpenGL_Quadric_Based_Mesh_Decimation/blob/master/Screenshot%202019-03-21%20at%202.29.21%20PM.png")
 
 Uses [NanoGUI](https://github.com/wjakob/nanogui), [GLFW](http://www.glfw.org/),
 [Eigen](http://eigen.tuxfamily.org/), [Embed Resource](https://github.com/cyrilcode/embed-resource),
